@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Helena</h1>
-<h3 align="center">A passionate frontend developer from Brazil, currently studying to be a front end developer at Laboratoria BR :)</h3>
+<h3 align="center">A passionate frontend developer from Brazil, front end developer graduated from Laboratoria BR and currently working with data engineering :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nannayusuf&label=Profile%20views&color=0e75b6&style=flat" alt="nannayusuf" /> </p>
 
