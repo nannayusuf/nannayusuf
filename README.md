@@ -37,10 +37,6 @@ _Setembro 2022 - Atualmente_
 - Criação e implementação de pipelines de dados em cloud, com foco em Snowflake e AWS.
 - Tecnologias principais: Python, SQL, Snowflake, AWS (S3, Glue, Redshift, Lambda, CloudWatch).
 
-**Engenheira de Dados | Bootcamp - Semantix (Remoto)**  
-_Fevereiro 2022 - Setembro 2022_
-
-- Participação em projetos reais de Big Data, utilizando ferramentas como Apache Spark, Kafka, e Hadoop.
 
 ### 📚 Certificações & Cursos
 
