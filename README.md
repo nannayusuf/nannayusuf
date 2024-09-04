@@ -42,8 +42,9 @@ _Setembro 2022 - Atualmente_
 
 - **Data Engineering on Snowflake** - Snowflake Academy (2023)
 - **Python for Data Science** - Coursera (2022)
+- **Inglês: Nível C2** (Proficiente)
 
 ### 📫 Entre em Contato!
 
-- **LinkedIn**: [Seu LinkedIn](https://linkedin.com/in/helenags)
+- **LinkedIn**: [Meu LinkedIn](https://linkedin.com/in/helenags)
 - **E-mail**: helenagssm@gmail.com
