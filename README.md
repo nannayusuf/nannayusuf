@@ -24,7 +24,7 @@ Aqui estão as principais ferramentas e tecnologias que utilizo no meu dia a dia
 - **Linguagens**: Python, SQL
 - **Big Data**: Snowflake, Spark
 - **Bancos de Dados**: MySQL, PostgreSQL, MongoDB
-- **Cloud**: AWS (S3, Redshift, Glue, Lambda, CloudWatch)
+- **Cloud**: Azure, AWS & GCP
 - **Orquestração de Containers**: Docker, Docker Compose
 - **ETL & Data Pipelines**: Transformação de dados, criação de pipelines, DataLake, DataWarehouse
 - **Streaming de Dados**: Kafka (incluindo Kafka Connect)
