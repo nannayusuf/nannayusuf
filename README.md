@@ -7,16 +7,6 @@ Com mais de 2 anos de experiência em Engenharia de Dados, sou apaixonada por tr
 
 **Experiência em Engenharia de Dados:** 2+ anos
 
-### 💡 Projetos em Andamento
-
-Meus projetos refletem minha busca contínua por aprendizado e aplicação prática de habilidades adquiridas. Aqui estão alguns dos projetos que estou desenvolvendo e compartilhando:
-
-- **Manipulação de Dados com SQL e Python**: Scripts e pipelines otimizados para transformar grandes volumes de dados de forma eficiente. ✅
-- **Desenvolvimento de Pipelines de ETL**: Processos automatizados para extração, transformação e carga de dados utilizando Snowflake e AWS. ✅
-- **Arquitetura de Data Lake e Data Warehouse**: Criação e gestão de infraestruturas de dados escaláveis com S3, Glue e Redshift. ✅
-- **Processamento de Dados em Tempo Real**: Prototipagem de pipelines de streaming de dados com Kafka e Spark. 🔜
-- **Conteinerização de Aplicações**: Utilização de Docker e Docker Compose para orquestração e gestão de ambientes de desenvolvimento e produção. 🔜
-
 ### 🛠️ Tecnologias & Ferramentas
 
 Aqui estão as principais ferramentas e tecnologias que utilizo no meu dia a dia:
