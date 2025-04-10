@@ -32,7 +32,7 @@ _Setembro 2022 - Atualmente_
 
 - **Data Engineering on Snowflake** - Snowflake Academy (2023)
 - **Python for Data Science** - Coursera (2022)
-- **Inglês: Nível C2** (Proficiente)
+- **Inglês: Nível C2** 
 
 ### 📫 Entre em Contato!
 
