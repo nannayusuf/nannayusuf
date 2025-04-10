@@ -1,40 +1,52 @@
+# 👋 Hi, I'm Helena
 
-# 👋 Olá, sou Helena!
+I'm a **Data Engineer** with over 2 years of experience turning raw data into actionable insights. I specialize in building efficient data pipelines, optimizing performance, and leveraging cloud technologies like **Snowflake, Python, and AWS** to support scalable data solutions across industries.
 
-### 🚀 Sobre Mim
+I'm also passionate about creating more inclusive tech spaces and have led initiatives to reduce the gender gap in tech through **Women in Tech**.
 
-Com mais de 2 anos de experiência em Engenharia de Dados, sou apaixonada por transformar dados brutos em insights valiosos e por resolver problemas complexos através de soluções técnicas. Atualmente, atuo principalmente com tecnologias como Snowflake e Big Data, impulsionando a transformação digital em diferentes setores. Além disso, liderei iniciativas para reduzir a disparidade de gênero no setor tecnológico como parte da Women in Tech. Estou sempre em busca de novos desafios que possam expandir meu conhecimento e impactar positivamente o ambiente de trabalho e a sociedade.
+---
 
-**Experiência em Engenharia de Dados:** 2+ anos
+## 🚀 What I’m Good At
 
-### 🛠️ Tecnologias & Ferramentas
+- Building and maintaining **scalable data pipelines**
+- Data modeling for **Data Lakes** and **Data Warehouses**
+- Query performance tuning, especially in **Snowflake**
+- Data transformation using **Python and SQL**
+- Cloud data workflows with **AWS (S3, Glue, Redshift, Lambda)**
+- Real-time data streaming with **Kafka & Kafka Connect**
 
-Aqui estão as principais ferramentas e tecnologias que utilizo no meu dia a dia:
+---
 
-- **Linguagens**: Python, SQL
-- **Big Data**: Snowflake, Spark
-- **Bancos de Dados**: MySQL, PostgreSQL, MongoDB
-- **Cloud**: Azure, AWS & GCP
-- **Orquestração de Containers**: Docker, Docker Compose
-- **ETL & Data Pipelines**: Transformação de dados, criação de pipelines, DataLake, DataWarehouse
-- **Streaming de Dados**: Kafka (incluindo Kafka Connect)
+## 🛠️ Tools & Technologies
 
-### 🏢 Experiência Laboral
+**Languages:** Python, SQL  
+**Big Data:** Snowflake, Apache Spark  
+**Databases:** MySQL, PostgreSQL, MongoDB  
+**Cloud Platforms:** AWS, Azure, GCP  
+**Containers:** Docker, Docker Compose  
+**ETL & Pipelines:** Data transformation, orchestration, monitoring  
+**Streaming:** Kafka, Kafka Connect
 
-**Engenheira de Dados | Projetos Big Data e Cloud (Remoto)**  
-_Setembro 2022 - Atualmente_
+---
 
-- Criação e implementação de pipelines de dados em cloud, com foco em Snowflake e AWS.
-- Tecnologias principais: Python, SQL, Snowflake, AWS (S3, Glue, Redshift, Lambda, CloudWatch).
+## 🏢 Work Experience
 
+**Data Engineer | Big Data & Cloud Projects (Remote)**  
+*Sep 2022 – Present*  
+- Designed and deployed cloud-based data pipelines using Snowflake and AWS.  
+- Key tools: Python, SQL, Snowflake, AWS (S3, Glue, Redshift, Lambda, CloudWatch).
 
-### 📚 Certificações & Cursos
+---
 
-- **Data Engineering on Snowflake** - Snowflake Academy (2023)
-- **Python for Data Science** - Coursera (2022)
-- **Inglês: Nível C2** 
+## 📚 Certifications & Courses
 
-### 📫 Entre em Contato!
+- 🎓 *Data Engineering on Snowflake* – Snowflake Academy (2023)  
+- 🐍 *Python for Data Science* – Coursera (2022)  
+- 🗣️ *English:* C2 Proficiency  
 
-- **LinkedIn**: [Meu LinkedIn](https://linkedin.com/in/helenags)
-- **E-mail**: helenagssm@gmail.com
+---
+
+## 📫 Let’s Connect
+
+- [LinkedIn](https://www.linkedin.com/in/helena)  
+- 📧 helenagssm@gmail.com
